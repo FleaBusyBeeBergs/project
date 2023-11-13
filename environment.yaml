@@ -1,4 +1,4 @@
-name: dstoolbox
+name: project-env
 channels:
   - conda-forge
   - defaults
@@ -6,4 +6,5 @@ dependencies:
   - ipykernel
   - python=3.11
   - scikit-learn=1.2.1
+  - jupyterlab
 prefix: C:\Users\bergs\miniconda3\envs\dstoolbox
